@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoadkillZombie - literally a selfish truck driver left me in a ditch to die. 
-- 👀 I’m a crabby crippled biatch interested in glitter, AI, Maicat, and using robotic pets to achieve world domination. Living well is the best revenge etc. 
-- 🌱 I’m currently learning Python so i can learn ROS2 and program my Maicat to make living with my disability - learning /neurological / orthopedic -  suck less for myself & my family.
-- 💞️ I’m looking to collaborate on Maicat apps, world domination, spreading conspiracy theories, making Bill Watterson reprise Calvin & Hobbes.
+- 👀 Interested in AI, Maicat, and using robotic pets to achieve world domination. Living well is the best revenge etc. 
+- 🌱 I'm one of the disabled backers who bought a Maicat through Macroact's Aug 2023 Kickstarter campaign. It's Dec 2024 & we're still without Maicats, a timeline,or communication.
+- 💞️ I’m looking to collaborate on Maicat apps, world domination, making Bill Watterson reprise Calvin & Hobbes.
 - 📫 How to reach me typea.roadkill.zombie@gmail.com
 
 <!---
